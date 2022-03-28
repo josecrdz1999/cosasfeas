@@ -3339,3 +3339,9 @@ Select three incorrect, untrue, misleading statements about Scrum?
 Which statement best describes a Product Owners responsability?
 
 - [x] Optimizing the value of the work the Scrum Team does
+
+308. ### Question308
+True or False: It is mandatory that the product increment be released to production at the end of each sprint.
+
+- [ ] True.
+- [x] False.
