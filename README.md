@@ -3327,3 +3327,9 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the typical size for a Scrum Team?
 
 - [x] 10 or fewer
+
+306. Question306
+Select three incorrect, untrue, misleading statements about Scrum?
+- [x] Scrum is like traditional process but with self-organization to replace Project Managers
+- [x] Scrum is a framework that eliminates complexity
+- [x] Scrum is a methodology where you can pick and choose which parts of Scrum you think will work for your enviroment
