@@ -3330,6 +3330,12 @@ What is the typical size for a Scrum Team?
 
 306. Question306
 Select three incorrect, untrue, misleading statements about Scrum?
+
 - [x] Scrum is like traditional process but with self-organization to replace Project Managers
 - [x] Scrum is a framework that eliminates complexity
 - [x] Scrum is a methodology where you can pick and choose which parts of Scrum you think will work for your enviroment
+
+307. Question307
+Which statement best describes a Product Owners responsability?
+
+- [x] Optimizing the value of the work the Scrum Team does
