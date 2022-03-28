@@ -430,12 +430,10 @@ _[⬆ Back to Top](#table-of-contents)_
 12. ### Question12
 What are possible benefits from practicing Test-Driven-Development (TDD)?
 
-- [ ] It is a great way for Testers to contribute early in the Sprint as they can start creating all the tests from the beginning on.
-- [ ] It makes Integration Tests obsolete and by doing so saves a lot of time.
-- [x] It helps break down complex problems into smaller ones that are much easier to be tackled.
-- [ ] It increases collaboration between Developers as it requires Pair Programming.
-- [x] It might lead to better code as Refactoring is part of the TDD cycle.
-- [x] It helps to identify gaps in understanding the desired behavior.
+- [x] It speeds the overall development process
+- [x] It promotes a good design and sepatation of concerns
+- [x] it causes you to construct a test harness that can be automated
+- [x] it improves quality and reduces bugs
 
 _[⬆ Back to Top](#table-of-contents)_
 
