@@ -474,7 +474,7 @@ When do the Developers show their work to the Product Owner?
 _[⬆ Back to Top](#table-of-contents)_
 
 12. ### Question12
-What are possible benefits from practicing Test Driven Development (TDD)?
+What are possible benefits from practicing Test-Driven-Development (TDD)?
 
 - [ ] It is a great way for Testers to contribute early in the Sprint as they can start creating all the tests from the beginning on.
 - [ ] It makes Integration Tests obsolete and by doing so saves a lot of time.
@@ -496,7 +496,7 @@ Who decides the System Architecture of a Product developed using Scrum?
 _[⬆ Back to Top](#table-of-contents)_
 
 14. ### Question14
-When using Continuous Integration, how often should the build be executed?
+How often should the build be executed?
 
 - [ ] Once per hour.
 - [x] Whenever new or changed code is checked into version control.
@@ -538,7 +538,7 @@ Who creates tests on a Scrum Team?
 _[⬆ Back to Top](#table-of-contents)_
 
 18. ### Question18
-What is Test First Development (TFD)?
+What is test-first-development?
 
 - [x] Creating tests before satisfying them.
 - [ ] Testing existing code before adding more code to it.
@@ -559,7 +559,7 @@ _[⬆ Back to Top](#table-of-contents)_
 _[⬆ Back to Top](#table-of-contents)_
 
 20. ### Question20
-While developing new functionality, you find a bug that has already been delivered to the customer. What do you do?
+As a Developer, while developing new functionality, you find a bug that has already been delivered to the customer. What do you do?
 
 - [ ] Revise the tests so that the bug no longer appears on the bug report.
 - [ ] Fix the bug.
@@ -597,7 +597,7 @@ How much time must a Product Owner spend with the Developers?
 - [ ] 100%.
 - [ ] Enough so that the Product Owner is not surprised by the value delivered by the Increment.
 - [ ] 40%, or more if the Stakeholders agree.
-- [x] Any amount of time the Developers ask the Product Owner to be present.
+- [x] As much time as the developers tell the product owner to be present
 
 24. ### Question24
 What are the typical roles when practicing Pair Programming?
@@ -758,10 +758,7 @@ _[⬆ Back to Top](#table-of-contents)_
 39. ### Question39
 Which answer best describes Behavior Driven Development (BDD)?
 
-- [x] A style of Test Driven Development focusing on user and system interactions.
-- [ ] A development style that accounts for leadership style among team members.
-- [ ] A way to organize Unit Tests based on class and method structures.
-- [ ] A technique for maintaining Regression Test harnesses.
+- [x] a agile practice that encourages collaboration between business, implementation and testing perspective
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1053,7 +1050,7 @@ A team has expressed requirements as a set of failing Acceptance Tests. What are
 _[⬆ Back to Top](#table-of-contents)_
 
 68. ### Question68
-Which is LEAST useful when measuring Code Maintainability?
+Which metric is LEAST useful when measuring Code Maintainability?
 
 - [ ] Function Points.
 - [x] Cyclomatic Complexity.
@@ -1293,7 +1290,7 @@ Which two of the following are true about the Scrum Master role? (choose the bes
 _[⬆ Back to Top](#table-of-contents)_
 
 91.  ### Question91
-Which two of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
+Which  of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
 
 - [ ] Documenting Acceptance Criteria for items in the next Sprint. 
 - [ ] The order of items in the Product Backlog.
@@ -1701,7 +1698,7 @@ The timebox for the Sprint Review is: (choose the best answer)
 _[⬆ Back to Top](#table-of-contents)_
 
 131.  ### Question131
-The timebox for the Sprint Planning event is? (choose the best answer)
+What is the timebox for the Sprint Planning event is? (choose the best answer)
 
 - [x] 8 hours for a monthly Sprint. For shorter Sprints it is usually shorter.
 - [ ] 4 hours.
@@ -2860,7 +2857,7 @@ True or False: The Scrum Team should choose at least one high priority process i
 _[⬆ Back to Top](#table-of-contents)_
 
 249.  ### Question249
-What are reasons to automate the Software build process? (choose the best two answers)
+What are two reasons to automate the Software build process? (choose the best two answers)
 
 - [x] Automation improves the quality of Software by making builds less error-prone.
 - [ ] Code Reviews are much faster if you automate your build.
@@ -2974,7 +2971,7 @@ What is Technical Debt?
 _[⬆ Back to Top](#table-of-contents)_
 
 260.  ### Question260
-What is the value of Refactoring code?
+What is a benefit of Refactoring code?
 
 - [ ] To have all code in a single file for easy printing and Code Reviews.
 - [x] To improve readability and maintainability.
@@ -3202,5 +3199,124 @@ What does it mean for a Scrum team to be croos-functional?
 Who is responsible for a Sprint Backlog Item that contains several database related tasks?
 
 - [x] Developers. 
+
+284.  ### Question284
+Cyclomatic complexity is a metric for:
+
+- [x] Measuring branching structures and nesting levels in code.
+
+285.  ### Question285
+During the Sprint, the Scrum Master´s role is to do which of the following:
+
+- [x] Coaching the team members in self-managment
+- [x] Facilitate inspection and adaptation opportunities as requested or needed.
+
+286.  ### Question286
+Who creates a Product Backlog item´s estimate?
+
+- [x] The developers after clarifying requirements with the product owner.
+
+287.  ### Question287
+What are two ways developers can ensure a good application architecture?
+
+- [x] The developers have a set of guiding architecture principles that are understood and followed when writing code.
+- [x] Architecture is an ongoing discussion by developers, focusing on implementing current sprint backlog items.
+ 
+288. ### Question288
+What relationship does Scrum have to development practices?
+
+- [x] Scrum is complemented by development practices.
+
+289. ### Question289
+At the end of a Sprint a Product backlog item worked on during the sprint does not meet the Definition of Done, what two things should happend with the undone product backlog item
+
+- [x] Put it on the product backlog for the product owner to decide what to do with it
+- [x] Do not include the item in the increment this sprint
+
+290.  ### Question290
+True or False: a high-performance scrum team ensures that each increment is complete by running a release sprint
+
+- [ ] True.
+- [x] False.
+
+291. ### Question291
+The sprint is already underway. a product backlog item selected for the sprint is unclear. what two things could the developer do?
+
+- [x] Reach out to the PO for the missing information before proceeding
+- [x] With the PO´s help, move the unclear work into a new product backlog item and place it on the product backlog
+
+292. ### Question292
+What three things can happen when refining product backlog items
+
+- [x]  sizing
+- [x]  product backlog item decomposition
+- [x] analysis
+
+293. ### Question293
+While developing a new feature, you find a bug delivered in a previous increment. what should you do?
+
+- [x] talk to the product owner about what steps to take
+
+294. ### Question294
+The definition of done serves which three purposes?
+
+- [x] describe the work that must be done before the sprint is allowed to end
+- [x]  increases transparency
+- [x] create a shared understanding of when work is completed
+
+295. ### Question295
+When are individuals with testing and quality expertise included in the software development effort?
+
+- [x] From the beginning and throughout all sprints
+
+296. ### Question296
+What would a developer with special quality assurance skills not do?
+
+- [x] Define acceptance criteria for features
+
+297. ### Question297
+What happens if the scrum team cannot compelte its work by the end of the sprint
+
+- [x]  The sprint length is unchanged and the scrum team continuously leanrs and adapts
+
+298. ### Question298
+When should product backlog refinement occur?
+
+- [x] Anytime the scrum team feels product backlog item require more precision
+
+299. ### Question299
+Which three of the following are  code quality metrics?
+
+- [x] Class coupling
+- [x] Depth of inheritance
+- [x] Cyclomatic complexity
+
+300. ### Question300
+When a continuous integration build fails, who ideally fixes it?
+
+- [x] whoever the developers agree should fix it
+
+301. ### Question301
+What enhances the transparency of an increment?
+
+- [x] doing all work needed to meet the definition of done.
+
+302. ### Question302
+The right time to refactor code using test-drive-development is:
+
+- [x] after the test passes
+
+303. ### Question303
+What are two reasons to use mock objects in unit tests?
+
+- [x] the behavior of a given object can be emulated to the system under test
+- [x] isolating a particular system component for controlled testing
+
+304. ### Question304
+Whatare the top three benefits of a good definition of done?
+
+- [x] Clear communication of the scrum teams quality standars
+- [x] an ongoing strategy or technique for steadily addressing technical debt
+- [x] a fully valuable usefull increment by the end of the sprint
 
 _[⬆ Back to Top](#table-of-contents)_
