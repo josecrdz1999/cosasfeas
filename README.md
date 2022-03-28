@@ -3345,3 +3345,12 @@ True or False: It is mandatory that the product increment be released to product
 
 - [ ] True.
 - [x] False.
+
+309. Question309
+Which types of tests can be automated?
+
+- [x] Functional
+- [x] Smoke
+- [x] Perfomrmance
+- [x] Integrtion
+- [x] Unit
