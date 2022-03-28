@@ -356,7 +356,27 @@
 | 281 | [Question281](#question281) |
 | 282 | [Question282](#question282) |
 | 283 | [Question283](#question283) |
-
+| 284 | [Question283](#question284) |
+| 285 | [Question283](#question285) |
+| 286 | [Question283](#question286) |
+| 287 | [Question283](#question287) |
+| 288 | [Question283](#question288) |
+| 289 | [Question283](#question289) |
+| 290 | [Question283](#question290) |
+| 291 | [Question283](#question291) |
+| 292 | [Question283](#question292) |
+| 293 | [Question283](#question293) |
+| 294 | [Question283](#question294) |
+| 295 | [Question283](#question295) |
+| 296 | [Question283](#question296) |
+| 297 | [Question283](#question297) |
+| 298 | [Question283](#question298) |
+| 299 | [Question283](#question299) |
+| 300 | [Question283](#question300) |
+| 301 | [Question283](#question301) |
+| 302 | [Question283](#question302) |
+| 303 | [Question283](#question303) |
+| 304 | [Question283](#question304) |
 
 ### When can Product Backlog Refinement occur?
 
