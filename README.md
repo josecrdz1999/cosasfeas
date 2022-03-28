@@ -3323,3 +3323,7 @@ Whatare the top three benefits of a good definition of done?
 
 _[⬆ Back to Top](#table-of-contents)_
 
+305. ###Question305
+What is the typical size for a Scrum Team?
+
+-[x] 10 or fewer
