@@ -3185,25 +3185,35 @@ You are on a Scrum Team that is enhancing an existing Product. Which is the LEAS
 - [x] The full history of retrospective plans and lessons learned.
 - [ ] Well-structured and named code.
 
+_[⬆ Back to Top](#table-of-contents)_
+
 281.  ### Question281
 True or False: Product documentation may be requiered as part of a working increment
 - [x] True.
 - [ ] False.
+
+_[⬆ Back to Top](#table-of-contents)_
 
 282.  ### Question282
 What does it mean for a Scrum team to be croos-functional?
 
 - [x] The scrum team includes croos-skilled individuals who are able to contribute to do what is necessary to deliver an Increment. 
 
+_[⬆ Back to Top](#table-of-contents)_
+
 283.  ### Question283
 Who is responsible for a Sprint Backlog Item that contains several database related tasks?
 
 - [x] Developers. 
 
+_[⬆ Back to Top](#table-of-contents)_
+
 284.  ### Question284
 Cyclomatic complexity is a metric for:
 
 - [x] Measuring branching structures and nesting levels in code.
+
+_[⬆ Back to Top](#table-of-contents)_
 
 285.  ### Question285
 During the Sprint, the Scrum Master´s role is to do which of the following:
@@ -3211,10 +3221,14 @@ During the Sprint, the Scrum Master´s role is to do which of the following:
 - [x] Coaching the team members in self-managment
 - [x] Facilitate inspection and adaptation opportunities as requested or needed.
 
+_[⬆ Back to Top](#table-of-contents)_
+
 286.  ### Question286
 Who creates a Product Backlog item´s estimate?
 
 - [x] The developers after clarifying requirements with the product owner.
+
+_[⬆ Back to Top](#table-of-contents)_
 
 287.  ### Question287
 What are two ways developers can ensure a good application architecture?
@@ -3222,10 +3236,14 @@ What are two ways developers can ensure a good application architecture?
 - [x] The developers have a set of guiding architecture principles that are understood and followed when writing code.
 - [x] Architecture is an ongoing discussion by developers, focusing on implementing current sprint backlog items.
  
+ _[⬆ Back to Top](#table-of-contents)_
+
 288. ### Question288
 What relationship does Scrum have to development practices?
 
 - [x] Scrum is complemented by development practices.
+
+_[⬆ Back to Top](#table-of-contents)_
 
 289. ### Question289
 At the end of a Sprint a Product backlog item worked on during the sprint does not meet the Definition of Done, what two things should happend with the undone product backlog item
@@ -3233,17 +3251,23 @@ At the end of a Sprint a Product backlog item worked on during the sprint does n
 - [x] Put it on the product backlog for the product owner to decide what to do with it
 - [x] Do not include the item in the increment this sprint
 
+_[⬆ Back to Top](#table-of-contents)_
+
 290.  ### Question290
 True or False: a high-performance scrum team ensures that each increment is complete by running a release sprint
 
 - [ ] True.
 - [x] False.
 
+_[⬆ Back to Top](#table-of-contents)_
+
 291. ### Question291
 The sprint is already underway. a product backlog item selected for the sprint is unclear. what two things could the developer do?
 
 - [x] Reach out to the PO for the missing information before proceeding
 - [x] With the PO´s help, move the unclear work into a new product backlog item and place it on the product backlog
+
+_[⬆ Back to Top](#table-of-contents)_
 
 292. ### Question292
 What three things can happen when refining product backlog items
@@ -3252,10 +3276,14 @@ What three things can happen when refining product backlog items
 - [x]  product backlog item decomposition
 - [x] analysis
 
+_[⬆ Back to Top](#table-of-contents)_
+
 293. ### Question293
 While developing a new feature, you find a bug delivered in a previous increment. what should you do?
 
 - [x] talk to the product owner about what steps to take
+
+_[⬆ Back to Top](#table-of-contents)_
 
 294. ### Question294
 The definition of done serves which three purposes?
@@ -3264,25 +3292,35 @@ The definition of done serves which three purposes?
 - [x]  increases transparency
 - [x] create a shared understanding of when work is completed
 
+_[⬆ Back to Top](#table-of-contents)_
+
 295. ### Question295
 When are individuals with testing and quality expertise included in the software development effort?
 
 - [x] From the beginning and throughout all sprints
+
+_[⬆ Back to Top](#table-of-contents)_
 
 296. ### Question296
 What would a developer with special quality assurance skills not do?
 
 - [x] Define acceptance criteria for features
 
+_[⬆ Back to Top](#table-of-contents)_
+
 297. ### Question297
 What happens if the scrum team cannot compelte its work by the end of the sprint
 
 - [x]  The sprint length is unchanged and the scrum team continuously leanrs and adapts
 
+_[⬆ Back to Top](#table-of-contents)_
+
 298. ### Question298
 When should product backlog refinement occur?
 
 - [x] Anytime the scrum team feels product backlog item require more precision
+
+_[⬆ Back to Top](#table-of-contents)_
 
 299. ### Question299
 Which three of the following are  code quality metrics?
@@ -3291,26 +3329,36 @@ Which three of the following are  code quality metrics?
 - [x] Depth of inheritance
 - [x] Cyclomatic complexity
 
+_[⬆ Back to Top](#table-of-contents)_
+
 300. ### Question300
 When a continuous integration build fails, who ideally fixes it?
 
 - [x] whoever the developers agree should fix it
+
+_[⬆ Back to Top](#table-of-contents)_
 
 301. ### Question301
 What enhances the transparency of an increment?
 
 - [x] doing all work needed to meet the definition of done.
 
+_[⬆ Back to Top](#table-of-contents)_
+
 302. ### Question302
 The right time to refactor code using test-drive-development is:
 
 - [x] after the test passes
+
+_[⬆ Back to Top](#table-of-contents)_
 
 303. ### Question303
 What are two reasons to use mock objects in unit tests?
 
 - [x] the behavior of a given object can be emulated to the system under test
 - [x] isolating a particular system component for controlled testing
+
+_[⬆ Back to Top](#table-of-contents)_
 
 304. ### Question304
 Whatare the top three benefits of a good definition of done?
@@ -3320,3 +3368,4 @@ Whatare the top three benefits of a good definition of done?
 - [x] a fully valuable usefull increment by the end of the sprint
 
 _[⬆ Back to Top](#table-of-contents)_
+
